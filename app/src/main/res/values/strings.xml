@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="masukan">Masukan 6 code yang telah diterima via
+        SMS ke nomor yang anda masukan</string>
+</resources>
